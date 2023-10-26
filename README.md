@@ -11,7 +11,8 @@ Hi, my name is Oskar, and I'm trying to learn programming and computer science
       <a href="https://github.com/OskarPodrucki?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OskarPodrucki?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-- - -
+
+###
 
 ### 💻 Languages ​​and tools that I'm trying to learn
 
