@@ -1,4 +1,4 @@
-[### 👋 OSKAR PODRUCKI
+### 👋 OSKAR PODRUCKI
 
 `Student of programming and computer science` 
 
