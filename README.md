@@ -7,7 +7,7 @@ Student of programming and computer science
 I am currently learning a lot of technology and I am practically developing myself in different areas of IT every day
 
 * ✉️  You can contact me at [oskar.podrucki.mailsm@gmail.com](mailto:oskar.podrucki.mailsm@gmail.com)
-* 🧠  I'm learning Python basics and preparing for my professional exam
+* 🧠  I'm learning Python basics, React, different types of databases, electronics, and I'm also preparing myself for my professional exam
 * ⚡  I like silly and funny cats 😺
 
 #
