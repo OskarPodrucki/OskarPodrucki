@@ -11,11 +11,12 @@ I am currently learning a lot of technology and I am practically developing myse
 * ⚡  I like silly and funny cats 😺
 
 #
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OskarPodrucki&label=Profile%20views&color=0e75b6&style=flat" alt="rlnkoo" /> </p>
 <a href="https://github.com/OskarPodrucki?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OskarPodrucki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/OskarPodrucki?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OskarPodrucki?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a><a href="https://www.x.com/podrucki444" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/podrucki444?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OskarPodrucki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/OskarPodrucki?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OskarPodrucki?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a><a href="https://www.x.com/podrucki444" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/podrucki444?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 #
