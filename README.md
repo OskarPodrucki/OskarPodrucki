@@ -22,7 +22,6 @@
 </div>
 
 # 
-<br>
 
 <div align="center">
   <h3 align="center">🛠️ Languages & Tools🔌</h3>
