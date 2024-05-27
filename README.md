@@ -6,12 +6,12 @@
 
 <div align="center">
   <h1 align="center">Hi, My name is Oskar 👋</h1> 
-  <h3 align="center">I am a 2nd year programming technician student, self-taught and passionate about exploring and experimenting with new technologiese</h3>
-
+ 
   <br>
   
   <details>
     <summary><b>🌟 Something About Me 🌟</b></summary>
+     <h3 align="center">I am a 2nd year programming technician student, self-taught and passionate about exploring and experimenting with new technologiese</h3>
     <div>
       <br>
       - ✉️ You can contact me at <a href="mailto:oskar.podrucki.mailsm@gmail.com">oskar.podrucki.mailsm@gmail.com</a><br><br>
