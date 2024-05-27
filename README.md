@@ -36,6 +36,7 @@
 #
 <br>
 
+<div align="center">
   <details>
     <summary><b>📊 My GitHub Stats 🚀</b></summary>
     <div>
@@ -67,3 +68,4 @@
       </a>
     </div>
   </details>
+</div>
