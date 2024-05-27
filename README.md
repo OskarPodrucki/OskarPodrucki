@@ -5,7 +5,7 @@
 #
 
 <div align="center">
-  <h1 align="center">Hi, My name is Oskar 👋</h1> 
+  <h3 align="center">Hi, My name is Oskar 👋</h3> 
  
   <br>
   
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <h1 align="center">🛠️ Languages & Tools🔌</h1>
+  <h3 align="center">🛠️ Languages & Tools🔌</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,c,cpp,py,java,lua" height="50px" /><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,supabase,spring,figma,blender,ps,pr" height="40px" />
   <img src="https://skillicons.dev/icons?i=docker,postman,git,bash,arduino,raspberrypi" height="40px" /><br>
