@@ -23,7 +23,7 @@
 <div align="center">
   <h3 align="center">🛠️ Languages & Tools🔌</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,c,cpp,py,java,lua" height="50px" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,supabase,spring,figma,blender,ps,pr" height="40px" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,supabase,spring,figma,blender" height="40px" />
   <img src="https://skillicons.dev/icons?i=docker,postman,git,bash,arduino,raspberrypi" height="40px" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,vim,obsidian" height="40px" /><br>
   <img src="https://skillicons.dev/icons?i=windows,linux,mint" height="40px" /><br>
